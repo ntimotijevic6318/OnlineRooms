@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="add_event">ADD EVENT</string>
+    <string name="show_event">SHOW EVENT</string>
+    <string name="export_to_json_file">EXPORT TO JSON</string>
+    <string name="set_date">SET DATE</string>
+    <string name="set_time">SET TIME</string>
+    <string name="save_event">SAVE EVENT</string>
+    <string name="enter_name">ENTER NAME</string>
+    <string name="description">DESCRIPTION</string>
+    <string name="list">"Europe \n America "</string>
+    <string name="search">"SEARCH "</string>
+
+    <string-array name="list">
+        <item>America</item>
+        <item>Africa</item>
+        <item>Asia</item>
+        <item>Europe</item>
+        <item> Australia</item>
+    </string-array>
+
+</resources>
