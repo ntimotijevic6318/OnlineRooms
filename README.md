@@ -1,3 +1,23 @@
+[EN]
+# OnlineRooms
+
+##  Application for Google Meet / Zoom Meetings
+
+###  Purpose of the Application
+- **Helps Android users easily access classes (rooms on Zoom / Meet) by saving the link of each room in a ROOM database.**  
+- **Provides a search bar for courses/subjects.**
+
+###  Demo Link
+[OnlineRooms](https://user-images.githubusercontent.com/72966266/236639448-3dd981a6-07ab-41f0-b9cc-f9b6f75c0838.mp4)
+
+###  Author
+**Nikola Timotijević 63/18RN**
+
+
+
+
+
+[SR]
 # OnlineRooms
 
 ## Aplikacija za g-meet/zoom sastanke
